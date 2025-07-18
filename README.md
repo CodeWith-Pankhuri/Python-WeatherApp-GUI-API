@@ -36,4 +36,4 @@ It uses Tkinter for the GUI and OpenWeatherMap API to fetch real-time weather da
 
 ## 🖼 App Preview
 
-![WeatherApp Screenshot](preview.png)
+![WeatherApp Screenshot](preview1.png)
